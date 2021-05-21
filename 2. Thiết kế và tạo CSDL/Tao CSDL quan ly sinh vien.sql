@@ -1,3 +1,7 @@
+create database quanlysinhvien;
+
+use quanlysinhvien;
+
 CREATE TABLE class (
     ClassId INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     ClassName VARCHAR(60) NOT NULL,
